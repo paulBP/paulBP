@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paulBP
 - 👀 I’m interested in DAta science 
-- 🌱 I’m currently learning DAta analys
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning DAta analystic
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me : paulbepe@outlook.fr
 
 <!---
